@@ -3,5 +3,6 @@
 	PackageId Stenway.ReliableTxt-[0.0.1.0]
 	Files
 		File ReliableTxtEncoding.ls
+		File ReliableTxtLines.ls
 	End
 End
